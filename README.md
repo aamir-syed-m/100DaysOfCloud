@@ -10,20 +10,17 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
 ## Aamir Syed's Cloud Journey
 
-[✍️ Introduce yourself]
+I am Aamir Syed, looking forward to moving to a career in cloud computing with a specialization in AWS.
 
-[✍️ Tell us why you started this challenge]
+I am participating in this challenge to build up my learning process with community support.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of thsi course, I expect to get some hands on experience with some projects and pass my AWS certification exams.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [@syed2048](https://twitter.com/syed2048)
+- [ LinkedIn](https://www.linkedin.com/in/aamir-syed-8916911a/)
 
 ## Stepping out the door
 

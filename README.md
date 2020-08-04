@@ -17,7 +17,7 @@ I am Aamir Syed, looking forward to moving to a career in cloud computing with a
 
 I am participating in this challenge to build up my learning process with community support.
 
-At the end of thsi course, I expect to get some hands on experience with some projects and pass my AWS certification exams.
+At the end of this course, I expect to get some hands on experience with some projects and pass my AWS certification exams.
 
 - [@syed2048](https://twitter.com/syed2048)
 - [ LinkedIn](https://www.linkedin.com/in/aamir-syed-8916911a/)

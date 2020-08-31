@@ -4,8 +4,8 @@
 
 ## AWS topics covered
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
+Dived deeper into Amazon Machine Images (AMI) and Auto Scaling Groups.
 
 ## Social Proof
 
-[Twitter](link)
+[Tweet](https://twitter.com/syed2048/status/1300287624909914113)

@@ -4,7 +4,7 @@
 
 ## Cloud Research
 
-- Learned AWS Elastic Block Store ( EBS)
+- Learned AWS Elastic Block Store ( EBS) and Elastic File System ( EFS )
 
 ## Social Proof
 

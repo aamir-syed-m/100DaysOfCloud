@@ -8,5 +8,4 @@ Studied "Designing Resilient Architectures for Associate AWS Solutions Architect
 
 ## Social Proof
 
-
 [Tweet](https://twitter.com/syed2048/status/1323494084292583424)

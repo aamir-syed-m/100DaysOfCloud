@@ -46,7 +46,7 @@ At the end of this course, I expect to get some hands on experience with some pr
 - [ ] ☁️ 17 > [My Seventeenth Day](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [My Eighteenth Day](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [My Nineteenth Day](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [My Twentieth Day](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
